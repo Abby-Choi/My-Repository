@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Title",
-            "content": "print(&quot;Hello&quot;) print(&quot;bye&quot;) . Hello .",
+            "content": "print(&quot;Hello&quot;) . Hello .",
             "url": "https://abby-choi.github.io/My-Repository/2022/08/23/My-notebook.html",
             "relUrl": "/2022/08/23/My-notebook.html",
             "date": " • Aug 23, 2022"
