@@ -2,21 +2,21 @@
   
     
         "post0": {
-            "title": "Hacks",
-            "content": "toc: true layout: post description: Abby’s markdown post categories: [markdown] title: hacks .",
-            "url": "https://abby-choi.github.io/My-Repository/2022/08/23/hacks.html",
-            "relUrl": "/2022/08/23/hacks.html",
-            "date": " • Aug 23, 2022"
+            "title": "Title",
+            "content": "print(&quot;Hello&quot;) . Hello .",
+            "url": "https://abby-choi.github.io/My-Repository/2022/08/24/My-notebook.html",
+            "relUrl": "/2022/08/24/My-notebook.html",
+            "date": " • Aug 24, 2022"
         }
         
     
   
     
         ,"post1": {
-            "title": "Title",
-            "content": "print(&quot;Hello&quot;) . Hello .",
-            "url": "https://abby-choi.github.io/My-Repository/2022/08/23/My-notebook.html",
-            "relUrl": "/2022/08/23/My-notebook.html",
+            "title": "Hacks",
+            "content": "toc: true layout: post description: Abby’s markdown post categories: [markdown] title: hacks .",
+            "url": "https://abby-choi.github.io/My-Repository/2022/08/23/hacks.html",
+            "relUrl": "/2022/08/23/hacks.html",
             "date": " • Aug 23, 2022"
         }
         
